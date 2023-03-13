@@ -1,0 +1,49 @@
+#map{
+    height: 500px; 
+    
+}
+#main{
+    padding-bottom: 25px;
+}
+footer{
+    background-color: #e9e5e5;
+}
+body{
+    background-image: url(61769.jpg)
+}
+.navbar-light{
+    background-color: #ecebeb;
+}
+#title{
+    color: #26a7de;
+    font-size: 28px;
+}
+#icon{
+    width: 40px;
+    height: 40px;
+}
+h1,h2{ 
+    color: rgb(84, 79, 73);
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    color: rgb(84, 79, 73);
+}
+h3{ 
+    text-align: center;
+    color: rgb(84, 79, 73);
+    padding-top: 25px;
+}
+#copyright{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.zoom:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+    color: #009dff;
+  }
+h5{
+    color: rgb(84, 79, 73);
+}
